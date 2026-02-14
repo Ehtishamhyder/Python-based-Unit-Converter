@@ -21,6 +21,4 @@ It uses **if/elif statements** to handle conversions and runs directly in Python
 
  Run it to python to get benefitted
 
- Developed by Ehtisham
-2. Download or clone this repository:
-   ```bash
+ Developed by **Ehtisham**
